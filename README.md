@@ -1,7 +1,6 @@
-# Telecom Churn
+# Telecom Customer Churn Prediction
 
 !['Customer Churn'](https://www.shutterstock.com/image-illustration/3d-illustration-customers-churn-analysis-600nw-1543465682.jpg)
-# Telecom Customer Churn Prediction
 
 ## Overview
 
